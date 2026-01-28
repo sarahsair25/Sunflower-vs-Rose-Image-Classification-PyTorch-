@@ -526,20 +526,12 @@ Future enhancements planned:
 
 ---
 
-## 📈 Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/sunflower-rose-classifier?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/sunflower-rose-classifier?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/sunflower-rose-classifier?style=social)
-
----
-
 <div align="center">
 
 **⭐ If you find this project helpful, please give it a star! ⭐**
 
 Made with ❤️ and PyTorch
 
-[Report Bug](https://github.com/yourusername/sunflower-rose-classifier/issues) • [Request Feature](https://github.com/yourusername/sunflower-rose-classifier/issues)
+
 
 </div>
